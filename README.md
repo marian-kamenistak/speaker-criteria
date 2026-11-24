@@ -1,5 +1,7 @@
 # speaker-criteria
 
+> **Moved.** This skill is now `speaker-evaluation` in the free **ELC Awesome Speaker** plugin, next to `speaker-deck`, which builds the deck once the talk scores 8.0 or more. Install it from [github.com/marian-kamenistak/elc-awesome-speaker](https://github.com/marian-kamenistak/elc-awesome-speaker). This repo stays as v1.3 and gets no updates.
+
 Find out if your talk is ready for a conference stage, and what to fix first. This Claude skill scores a talk from 0 to 10 on seven weighted criteria, with a quote from your own slides behind each score.
 
 From the [Engineering Leaders Community](https://www.engineeringleaders.io/). These are the criteria the ELC Conference programme team uses to pick its speakers.
